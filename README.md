@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 ## 1. Slave Knight Gael
 *Boss icônico de Dark Souls III, recriado no estilo de modelagem low-poly voxel.*
 
-<img src="assets/NOME-EXATO-DO-SEU-ARQUIVO.gif" width="600"/>
+<img src="assets/gael_model.png" width="600"/>
 
 *   **Software:** Blockbench.
 *   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-MOD)
