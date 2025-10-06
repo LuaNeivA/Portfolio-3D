@@ -65,3 +65,13 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 *   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
 
 ---
+
+## 7. Akihiko Kayaba
+*Personagem de Sword Art Online, recriado no estilo de modelagem low-poly voxel.*
+
+<img src="assets/akihiko_kayaba_model.png" width="600"/>
+
+*   **Software:** Blockbench
+*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+
+---
