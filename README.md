@@ -14,12 +14,22 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 
 ---
 
-## 2. Nome do Seu Segundo Modelo
-*Descrição do segundo modelo. Tente contar uma pequena história sobre ele.*
+## 2. Minotaur
+*Minotauro da mitologia grega, recriado no estilo de modelagem low-poly voxel.*
 
-<img src="assets/NOME-DA-SUA-OUTRA-IMAGEM.png" width="600"/>
+<img src="assets/minotauro.jpg" width="600"/>
 
 *   **Software:** Blockbench
-*   **Projeto Vinculado:** [Nome do Outro Mod](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+
+---
+
+## 2. Renart
+*Renart, personagem original, criado no estilo de modelagem low-poly voxel.*
+
+<img src="assets/renart.png" width="600"/>
+
+*   **Software:** Blockbench
+*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
 
 ---
