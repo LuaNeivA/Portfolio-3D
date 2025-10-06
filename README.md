@@ -24,7 +24,17 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 
 ---
 
-## 2. Renart
+## 3. Breathtaker
+*Boss original, criado no estilo de modelagem low-poly voxel.*
+
+<img src="assets/breathtaker_model.png" width="600"/>
+
+*   **Software:** Blockbench
+*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+
+---
+
+## 4. Renart
 *Renart, personagem original, criado no estilo de modelagem low-poly voxel.*
 
 <img src="assets/renart_model.png" width="600"/>
