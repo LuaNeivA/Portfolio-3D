@@ -59,10 +59,10 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 ## 6. lllfang the Kolbold Lord
 *Illfang the Kobold Lord, boss de Sword Art Online, recriado no estilo de modelagem low-poly voxel.*
 
-<img src="assets/lllmodel_model.png" width="600"/>
+<img src="assets/lllfang_model.png" width="600"/>
 
 *   **Software:** Blockbench
-*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+*   **Projeto Vinculado:** [SwordArtCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
 
 ---
 
@@ -72,6 +72,6 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 <img src="assets/akihiko_kayaba_model.png" width="600"/>
 
 *   **Software:** Blockbench
-*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+*   **Projeto Vinculado:** [SwordArtCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
 
 ---
