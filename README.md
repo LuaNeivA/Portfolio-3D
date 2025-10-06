@@ -85,3 +85,15 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 *   **Projeto Vinculado:** [SwordArtCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
 
 ---
+
+## 8. Lizardman
+*Monstro de Sword Art Online, recriado no estilo de modelagem low-poly voxel.*
+
+<img src="assets/lizardman_model.png" width="600"/>
+
+*   **Software:** Blockbench
+*   **Projeto Vinculado:** [SwordArtCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+
+---
+
+
