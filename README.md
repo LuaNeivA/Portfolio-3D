@@ -34,7 +34,19 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 
 ---
 
-## 4. Renart
+## 4. Knight of Duskblue
+*Personagem inspirado no Selvagem de Elden Ring Nightreign com claymore, no estilo de modelagem low-poly voxel.*
+
+<img src="assets/knight_of_duskblue_model.png" width="600"/>
+
+*   **Software:** Blockbench
+*   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
+
+---
+
+
+
+## 5. Renart
 *Renart, personagem original, criado no estilo de modelagem low-poly voxel.*
 
 <img src="assets/renart_model.png" width="600"/>
