@@ -17,7 +17,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 ## 2. Minotaur
 *Minotauro da mitologia grega, recriado no estilo de modelagem low-poly voxel.*
 
-<img src="assets/minotauro.jpg" width="600"/>
+<img src="assets/minotauro_model.jpg" width="600"/>
 
 *   **Software:** Blockbench
 *   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
@@ -27,7 +27,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns dos modelos que criei para meus 
 ## 2. Renart
 *Renart, personagem original, criado no estilo de modelagem low-poly voxel.*
 
-<img src="assets/renart.png" width="600"/>
+<img src="assets/renart_model.png" width="600"/>
 
 *   **Software:** Blockbench
 *   **Projeto Vinculado:** [SoulsCraft](LINK-PARA-O-REPOSITORIO-DO-OUTRO-MOD)
